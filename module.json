@@ -1,0 +1,59 @@
+{
+	"id": "pf2e-magaambya",
+	"title": "PF2e Magaambya",
+	"description": "A module dedicated to improve your experience when playing Strength of Thousands adventure path in the Pathfinder 2e system.",
+	"version": "This is replaced",
+	"authors": [
+		{
+			"name": "MrVauxs",
+			"flags": {}
+		}
+	],
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10"
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "pf2e",
+				"type": "system",
+				"compatibility": {
+					"minimum": "4.4.2"
+				}
+			}
+		]
+	},
+	"packs": [
+		{
+			"label": "PF2e Magaambya Macros",
+			"name": "Macros",
+			"path": "packs/macros.db",
+			"system": "pf2e",
+			"type": "Macro",
+			"private": false,
+			"flags": {}
+		},
+		{
+			"label": "PF2e Magaambya Feats",
+			"name": "Feats",
+			"path": "packs/feats.db",
+			"system": "pf2e",
+			"type": "Item",
+			"private": false,
+			"flags": {}
+		}
+	],
+	"url": "https://github.com/MrVauxs/pf2e-magaambya",
+	"manifest": "This is replaced",
+	"download": "This is replaced",
+	"readme": "https://github.com/MrVauxs/pf2e-magaambya",
+	"bugs": "https://github.com/MrVauxs/pf2e-magaambya/issues",
+	"changelog": "https://github.com/MrVauxs/pf2e-magaambya/blob/master/CHANGELOG.md",
+	"esmodules": [
+		"scripts/pf2e-magaambya.js"
+	],
+	"styles": [
+		"styles/pf2e-magaambya.css"
+	]
+}
