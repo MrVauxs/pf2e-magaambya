@@ -50,7 +50,7 @@
 	"readme": "https://github.com/MrVauxs/pf2e-magaambya",
 	"bugs": "https://github.com/MrVauxs/pf2e-magaambya/issues",
 	"changelog": "https://github.com/MrVauxs/pf2e-magaambya/blob/master/CHANGELOG.md",
-	"scripts": [
-		"scripts/pf2e-magaambya.js"
+	"esmodules": [
+		"module/pf2e-magaambya.js"
 	]
 }

@@ -28,7 +28,7 @@ jobs:
         download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip
 
     # Create a zip file with all files required by the module to add to the release
-    - run: zip -r ./module.zip module.json README.md LICENSE styles/ scripts/ packs/
+    - run: zip -r ./module.zip module.json README.md LICENSE styles/ packs/ module/
 
     # Create a release for this specific version
     - name: Update Release with Files
@@ -45,15 +45,15 @@ jobs:
         body: ${{ github.event.release.body }}
 
     # Publish to FoundryVTT
-    # - name: Publish to Foundry VTT Repo
-    #  id: publish_foundry_repo
-    #  run: npx @ghost-fvtt/foundry-publish
-    #  env:
-    #    FVTT_MANIFEST_PATH: 'module.json'
-    #    FVTT_PACKAGE_ID: REPLACE MEEEEEEEEEEE
-    #    FVTT_USERNAME: ${{ secrets.FOUNDRY_ADMIN_USERNAME }}
-    #    FVTT_PASSWORD: ${{ secrets.FOUNDRY_ADMIN_PASSWORD }}
-    #    FVTT_MANIFEST_URL: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.json
+    - name: Publish to Foundry VTT Repo
+      id: publish_foundry_repo
+      run: npx @ghost-fvtt/foundry-publish
+      env:
+        FVTT_MANIFEST_PATH: 'module.json'
+        FVTT_PACKAGE_ID: 2827
+        FVTT_USERNAME: ${{ secrets.FOUNDRY_ADMIN_USERNAME }}
+        FVTT_PASSWORD: ${{ secrets.FOUNDRY_ADMIN_PASSWORD }}
+        FVTT_MANIFEST_URL: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.json
 
    # - name: FoundryVTT AutoPublish
    #   uses: Varriount/fvtt-autopublish@v1.0.9
