@@ -26,6 +26,15 @@
 	},
 	"packs": [
 		{
+			"label": "PF2e Magaambya Scenes",
+			"name": "Scenes",
+			"path": "packs/scenes.db",
+			"system": "pf2e",
+			"type": "Scene",
+			"private": true,
+			"flags": {}
+		},
+		{
 			"label": "PF2e Magaambya Macros",
 			"name": "Macros",
 			"path": "packs/macros.db",
