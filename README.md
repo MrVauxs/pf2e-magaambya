@@ -7,3 +7,8 @@ A module dedicated to improving your experience when playing the Strength of Tho
 
 ## Artists:
 Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord)
+
+## How To:
+### Maps
+You will find the maps provided by the module in the PF2e Magaambya Maps adventure compendium.
+Why Adventure format? Because it includes embedded Journal Entries in the scene.
