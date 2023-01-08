@@ -11,4 +11,5 @@ Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong 
 ## How To:
 ### Maps
 You will find the maps provided by the module in the PF2e Magaambya Maps adventure compendium.
-Why Adventure format? Because it includes embedded Journal Entries in the scene.
+
+Why the Adventure format? Because it includes embedded Journal Entries in the scene.
