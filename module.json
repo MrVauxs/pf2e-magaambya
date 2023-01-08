@@ -26,11 +26,11 @@
 	},
 	"packs": [
 		{
-			"label": "PF2e Magaambya Scenes",
-			"name": "Scenes",
-			"path": "packs/scenes.db",
+			"label": "PF2e Magaambya Maps",
+			"name": "Maps",
+			"path": "packs/maps.db",
 			"system": "pf2e",
-			"type": "Scene",
+			"type": "Adventure",
 			"private": true,
 			"flags": {}
 		},
