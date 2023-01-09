@@ -6,7 +6,7 @@ A module dedicated to improving your experience when playing the Strength of Tho
 - A fully fleshed out Spire Dormitory map, along with alternative and empty rooms for players to customize, and compatibility with Hurricane's Howl encounter!
 
 ## Artists:
-Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord)
+Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
 
 ## How To:
 ### Maps
