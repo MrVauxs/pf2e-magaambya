@@ -1,3 +1,6 @@
+# 1.3.0
+- Added Habebe Building map.
+
 # 1.2.1
 - Added an Empty Rooms zip file in Dormitory files, for those who want to create their own rooms outside of Foundry.
 
@@ -8,7 +11,7 @@
 - Fixed the release workflow not including the ARTWORK!
 
 # 1.1.0
-- Added the Spire Dormitory map, along with mapmakers notes.
+- Added the Spire Dormitory map.
 
 # 1.0.0
 Release!
