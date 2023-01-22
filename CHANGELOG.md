@@ -1,5 +1,5 @@
 # 1.3.0
-- Added Habebe Building map.
+- Added Hababe Building map.
 
 # 1.2.1
 - Added an Empty Rooms zip file in Dormitory files, for those who want to create their own rooms outside of Foundry.
