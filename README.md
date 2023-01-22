@@ -9,6 +9,7 @@ A module dedicated to improving your experience when playing the Strength of Tho
 ## Artists:
 Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
 The Animal Lot - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
+Hababe Building - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
 
 ## How To:
 ### Maps
