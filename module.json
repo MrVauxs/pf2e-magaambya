@@ -35,6 +35,15 @@
 			"flags": {}
 		},
 		{
+			"label": "PF2e Magaambya Journals",
+			"name": "journals",
+			"path": "packs/journal.db",
+			"system": "pf2e",
+			"type": "JournalEntry",
+			"private": false,
+			"flags": {}
+		},
+		{
 			"label": "PF2e Magaambya Macros",
 			"name": "Macros",
 			"path": "packs/macros.db",
