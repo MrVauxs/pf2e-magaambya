@@ -1,6 +1,6 @@
 # 1.4.0
 - Added Snabble artwork and token.
-- Added Locations (Magaambya Campus and Nantambu + Outskirts) and Characters (Students and Magaambya Staff Only) Journal Entries.
+- Added indexes of **Locations** (Magaambya Campus and Nantambu + Outskirts) and **Characters** (Students and Magaambya Staff Only) Journal Entries.
 
 # 1.3.0
 - Added Hababe Building map.
