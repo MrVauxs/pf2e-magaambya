@@ -1,3 +1,6 @@
+# 1.5.0
+- Added lighting to the Spire Dormitory map. Enjoy your night outs.
+
 # 1.4.0
 - Added Snabble artwork and token.
 - Added indexes of **Locations** (Magaambya Campus and Nantambu + Outskirts) and **Characters** (Students and Magaambya Staff Only) in a new Journal Entries Compendium. These will be expanded in time to be more in-depth over every character's occurrence.
