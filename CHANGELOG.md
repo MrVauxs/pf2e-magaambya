@@ -1,5 +1,6 @@
 # 1.5.0
 - Added lighting to the Spire Dormitory map. Enjoy your night outs.
+- Fixed some feats Rule Elements predicates.
 
 # 1.4.0
 - Added Snabble artwork and token.
