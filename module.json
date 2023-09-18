@@ -5,13 +5,12 @@
 	"version": "This is replaced",
 	"authors": [
 		{
-			"name": "MrVauxs",
-			"flags": {}
+			"name": "MrVauxs"
 		}
 	],
 	"compatibility": {
 		"minimum": "10",
-		"verified": "10"
+		"verified": "11"
 	},
 	"relationships": {
 		"systems": [
@@ -24,6 +23,19 @@
 			}
 		]
 	},
+	"packFolders": [
+		{
+			"name": "PF2e Magaambya",
+			"sorting": "m",
+			"color": "#997537",
+			"packs": [
+				"Maps",
+				"Journals",
+				"Macros",
+				"Feats"
+			]
+		}
+	],
 	"packs": [
 		{
 			"label": "PF2e Magaambya Maps",
@@ -32,7 +44,10 @@
 			"system": "pf2e",
 			"type": "Adventure",
 			"private": true,
-			"flags": {}
+			"ownership": {
+				"PLAYER": "LIMITED",
+				"ASSISTANT": "OWNER"
+			}
 		},
 		{
 			"label": "PF2e Magaambya Journals",
@@ -40,8 +55,10 @@
 			"path": "packs/journal.db",
 			"system": "pf2e",
 			"type": "JournalEntry",
-			"private": false,
-			"flags": {}
+			"ownership": {
+				"PLAYER": "LIMITED",
+				"ASSISTANT": "OWNER"
+			}
 		},
 		{
 			"label": "PF2e Magaambya Macros",
@@ -49,17 +66,17 @@
 			"path": "packs/macros.db",
 			"system": "pf2e",
 			"type": "Macro",
-			"private": false,
-			"flags": {}
+			"ownership": {
+				"PLAYER": "LIMITED",
+				"ASSISTANT": "OWNER"
+			}
 		},
 		{
 			"label": "PF2e Magaambya Feats",
 			"name": "Feats",
 			"path": "packs/feats.db",
 			"system": "pf2e",
-			"type": "Item",
-			"private": false,
-			"flags": {}
+			"type": "Item"
 		}
 	],
 	"url": "https://github.com/MrVauxs/pf2e-magaambya",
