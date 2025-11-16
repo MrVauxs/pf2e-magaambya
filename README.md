@@ -9,9 +9,9 @@ The maps and features of this module are made and commissioned with my time and 
 - An (empty) index of locations in Nantambu. As above, a list of names.
 
 ## Artists:
-- Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
-- The Animal Lot - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
-- Hababe Building - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@Hong Bo#9103` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
+- Spire Dormitory - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@hongbo` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
+- The Animal Lot - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@hongbo` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
+- Hababe Building - Hong Bo ([Twitter](https://twitter.com/HongBoContact), `@hongbo` on Discord), made using [Forgotten Adventures](www.forgotten-adventures.net) assets.
 - Snabble Artwork - Alec Adams ([Twitter](https://twitter.com/Alec_Adams), [Website](https://www.alecadamsart.com/)), commissioned by Weaver "Traveler Autumn Tales" ([Twitter](https://twitter.com/TravlrAutmTales)), token made with [Pathfinder Token Pack: Bestiaries](https://foundryvtt.com/packages/pf2e-tokens-bestiaries) token border.
 
 ## How To:
@@ -19,3 +19,4 @@ The maps and features of this module are made and commissioned with my time and 
 You will find the maps provided by the module in the PF2e Magaambya Maps adventure compendium.
 
 Why the Adventure format? Because it includes embedded Journal Entries in the scene.
+
